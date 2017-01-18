@@ -1,0 +1,48 @@
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\bin\Debug\16b_01_z1.exe.config
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\bin\Debug\16b_01_z1.exe
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\bin\Debug\16b_01_z1.pdb
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\obj\Debug\16b_01_z1.csprojResolveAssemblyReference.cache
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\obj\Debug\_16b_01_z1.Form1.resources
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\obj\Debug\_16b_01_z1.Properties.Resources.resources
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\obj\Debug\16b_01_z1.csproj.GenerateResource.Cache
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\obj\Debug\16b_01_z1.exe
+C:\Users\u9lab\Documents\Rakowski Sebastian\16b_01_z1\obj\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\bin\Debug\16b_01_z1.exe.config
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\obj\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\obj\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\bin\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\bin\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\obj\Debug\16b_01_z1.csprojResolveAssemblyReference.cache
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\obj\Debug\_16b_01_z1.Form1.resources
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\obj\Debug\_16b_01_z1.Properties.Resources.resources
+C:\Users\Laptok\Desktop\Sebastian Rakowski\16b_01_z1\obj\Debug\16b_01_z1.csproj.GenerateResource.Cache
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\bin\Debug\16b_01_z1.exe.config
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\obj\Debug\16b_01_z1.exe
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\obj\Debug\16b_01_z1.pdb
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\obj\Debug\16b_01_z1.csprojResolveAssemblyReference.cache
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\obj\Debug\_16b_01_z1.Form1.resources
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\obj\Debug\_16b_01_z1.Properties.Resources.resources
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\obj\Debug\16b_01_z1.csproj.GenerateResource.Cache
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\bin\Debug\16b_01_z1.exe
+D:\Programowanie\Paradygmaty\Projekty\16b_01_z1\bin\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\bin\Debug\16b_01_z1.exe.config
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\obj\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\obj\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\bin\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\bin\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\obj\Debug\16b_01_z1.csprojResolveAssemblyReference.cache
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\obj\Debug\_16b_01_z1.Form1.resources
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\obj\Debug\_16b_01_z1.Properties.Resources.resources
+C:\Users\Laptok\Desktop\nowe\16b_01_z1\obj\Debug\16b_01_z1.csproj.GenerateResource.Cache
+C:\Users\Laptok\Desktop\do oddania\16b_01_z1\bin\Debug\16b_01_z1.exe.config
+C:\Users\Laptok\Desktop\do oddania\16b_01_z1\obj\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\do oddania\16b_01_z1\obj\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\bin\Debug\16b_01_z1.exe.config
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\obj\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\obj\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\bin\Debug\16b_01_z1.exe
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\bin\Debug\16b_01_z1.pdb
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\obj\Debug\16b_01_z1.csprojResolveAssemblyReference.cache
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\obj\Debug\_16b_01_z1.Form1.resources
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\obj\Debug\_16b_01_z1.Properties.Resources.resources
+C:\Users\Laptok\Desktop\C#\do oddania\16b_01_z1\obj\Debug\16b_01_z1.csproj.GenerateResource.Cache
